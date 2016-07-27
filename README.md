@@ -44,6 +44,9 @@ api.image.get('108559295', function(err, data) {
    * [v2.image.recommendations](#v2.image.recommendations)
    * [v2.image.search](#v2.image.search)
    * [v2.image.similar](#v2.image.similar)
+   * [v2.image.collections](#v2.image.collections) *
+   * [v2.image.collection](#v2.image.collection) *
+   * [v2.image.collection_items](#v2.image.collection_items) *
    * [v2.video.list](#v2.video.list)
    * [v2.video.get](#v2.video.get)
    * [v2.video.search](#v2.video.search)
