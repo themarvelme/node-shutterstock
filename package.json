@@ -1,6 +1,6 @@
 {
   "name": "shutterstock",
-  "version": "0.13.3",
+  "version": "0.13.4",
   "description": "Shutterstock API client",
   "main": "./lib",
   "dependencies": {
@@ -28,7 +28,7 @@
     "api",
     "shutterstock"
   ],
-  "repository": "https://github.com/silas/node-shutterstock.git",
-  "author": "Silas Sewell <silas@sewell.org>",
+  "repository": "https://github.com/johnmcl/node-shutterstock.git",
+  "author": "Shutterstock <api@shutterstock.com>",
   "license": "MIT"
 }
