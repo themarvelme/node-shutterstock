@@ -51,6 +51,9 @@ api.image.get('108559295', function(err, data) {
    * [v2.video.get](#v2.video.get)
    * [v2.video.search](#v2.video.search)
    * [v2.video.similar](#v2.video.similar)
+   * [v2.video.collections](#v2.video.collections) *
+   * [v2.video.collection](#v2.video.collection) *
+   * [v2.video.collection_items](#v2.video.collection_items) *
  * [shutterstock.v1](#v1)
    * [v1.echo](#v1.echo)
    * [v1.image.search](#v1.image.search)
